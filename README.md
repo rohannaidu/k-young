@@ -10,8 +10,7 @@ algorithm to get the results. I test the efficacy of my implementation
 on a known example from
 https://en.wikipedia.org/wiki/Kemeny%E2%80%93Young_method#Example
 
---using hrishi's data.ipynb performs the same calculation as in
-fast_ky_method.ipynb using data provided by Hrishi and obtains the same
+--using hrishi's data.ipynb uses data provided by Hrishi and obtains the same
 results.
 
 --The result I report is as follows:
